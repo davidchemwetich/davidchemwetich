@@ -31,7 +31,7 @@
 - Python-based network scanner with vulnerability detection
 - Integrated with Shodan API for threat intelligence
 
-#### [Project 2: Malware Analysis Toolkit](https://github.com/[YourUsername]/malware-analysis)
+#### [Project 2: Malware Analysis Toolkit](https://github.com/fotify-devs/ladybird)
 ![GitHub Stars](https://img.shields.io/github/stars/[YourUsername]/malware-analysis?style=flat-square)
 ![GitHub Forks](https://img.shields.io/github/forks/[YourUsername]/malware-analysis?style=flat-square)
 - Automated malware analysis sandbox
