@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm [David] 
 ### 🔒 Cyber Security Enthusiast | Ethical Hacker | Security Researcher
 
-![Cyber Security Banner](https://github.com/[YourUsername]/[YourUsername]/blob/main/assets/cyber-banner.gif?raw=true) 
+![Cyber Security Banner](https://github.com/davidchemwetich/davidchemwetich/blob/main/assets/cyber-banner.gif?raw=true) 
 *"In the digital world, every lock has a key - I specialize in finding them before the bad actors do."*
 
 ---
