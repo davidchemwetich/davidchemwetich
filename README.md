@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [David] 
+# 👋 Hi, I'm David
 ### 🔒 Cyber Security Enthusiast | Ethical Hacker | Security Researcher
 
 ![Cyber Security Banner](https://github.com/davidchemwetich/davidchemwetich/blob/main/assets/cyber-banner.gif?raw=true) 
