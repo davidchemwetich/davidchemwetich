@@ -43,18 +43,10 @@
 [![CEH](https://img.shields.io/badge/CEH-ECCouncil-FF6D00?style=for-the-badge)](https://www.eccouncil.org/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007AB8?style=for-the-badge)](https://www.comptia.org/)
 [![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-FF6D00?style=for-the-badge)](https://www.offensive-security.com/)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118782" style='border:none;'></iframe>
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&hide_border=true)
+[View Badge Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118782)
 
 ---
+
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
