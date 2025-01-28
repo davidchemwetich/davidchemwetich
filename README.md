@@ -43,7 +43,7 @@
 [![CEH](https://img.shields.io/badge/CEH-ECCouncil-FF6D00?style=for-the-badge)](https://www.eccouncil.org/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007AB8?style=for-the-badge)](https://www.comptia.org/)
 [![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-FF6D00?style=for-the-badge)](https://www.offensive-security.com/)
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4118782" style='border:none;'></iframe>
 ---
 
 ### 📈 GitHub Stats
