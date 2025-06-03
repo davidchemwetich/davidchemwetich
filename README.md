@@ -23,22 +23,6 @@
 
 ---
 
-### 🔭 Current Projects
-
-#### [Project 1: Network Vulnerability Scanner](https://github.com/[YourUsername]/network-scanner)
-![GitHub Stars](https://img.shields.io/github/stars/[YourUsername]/network-scanner?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/[YourUsername]/network-scanner?style=flat-square)
-- Python-based network scanner with vulnerability detection
-- Integrated with Shodan API for threat intelligence
-
-#### [Project 2: Malware Analysis Toolkit](https://github.com/fotify-devs/ladybird)
-![GitHub Stars](https://img.shields.io/github/stars/[YourUsername]/malware-analysis?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/[YourUsername]/malware-analysis?style=flat-square)
-- Automated malware analysis sandbox
-- Static and dynamic analysis capabilities
-
----
-
 ### 📜 Certifications
 [![CEH](https://img.shields.io/badge/CEH-ECCouncil-FF6D00?style=for-the-badge)](https://www.eccouncil.org/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007AB8?style=for-the-badge)](https://www.comptia.org/)
@@ -57,12 +41,6 @@
 
 ---
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/dchemwetich25)
-
----
 
 > *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*  
 > *- Gene Spafford*
