@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer | Laravel, Node.js, Vue, Livewire, Tailwind
 - ⚡ Passionate about building scalable web apps & sleek UIs
-- 🛠 Experienced with Docker, CI/CD, Nginx, Prometheus & Grafana
+- 🛠 Experienced with Docker, CI/CD.
 - 🌱 Currently exploring **ethical hacking & DevOps automation**
 - 🎯 Mission: _"Write code that speaks human and machine fluently"_
 - 💬 Always open to collaborations & cool side projects
