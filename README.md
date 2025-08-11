@@ -34,9 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana)
-
 ---
 
 ## 📊 GitHub Stats
