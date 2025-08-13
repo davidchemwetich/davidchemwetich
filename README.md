@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+David+Chemwetich+👋;Aspiring+Full+Stack+Developer;Learning+Laravel%2C+Node.js%2C+and+DevOps;Passionate+about+Coding+and+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+David+Chemwetich+👋;Full+Stack+Developer+Growing+Every+Day;Laravel%2C+Node.js%2C+Vue%2C+DevOps;Always+Improving+Skills+%26+Building+Better+Apps" alt="Typing SVG" />
 </p>
+
 
 ---
 
