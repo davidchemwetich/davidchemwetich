@@ -2,7 +2,7 @@
 - 💻 **Full Stack Developer** with hands-on experience in enterprise-grade systems  
 - 🚀 Skilled in **Laravel, Node.js, Vue, Livewire, Tailwind** for building scalable, production-ready apps  
 - 🛠 Strong background in **Docker, Nginx, CI/CD pipelines, cloud deployments**  
-- 🔒 Cybersecurity & **Ethical Hacking** enthusiast (MSc candidate in Cybersecurity)  
+- 🔒 Cybersecurity & **Ethical Hacking** enthusiast  
 - 🎯 Driven by the mission: _"Code should create value, not complexity."_  
 - 🤝 Experienced collaborating across startups & corporate environments  
 ---
