@@ -38,8 +38,6 @@
 ---
 
 ## 🌟 Selected Projects
-- 🚍 **Bus Booking System** — Laravel + Flutter platform simplifying ticketing across Kenya  
-- 🏫 **VocaSuite (School Management System)** — multi-app system with portal, courses & results management  
 - ✝️ **Church CRM** — TALL-stack CRM with Flutter mobile extension  
 - 🌐 **WhatsApp CRM** — Node.js + Meta API + TALL stack frontend for business communications  
 
