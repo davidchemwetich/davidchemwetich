@@ -25,15 +25,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
 ---
-## 🌟 Selected Projects
-- ✝️ **Church CRM** — TALL-stack CRM with Flutter mobile extension  
-- 🌐 **WhatsApp CRM** — Node.js + Meta API + TALL stack frontend for business communications  
----
 ## 📈 GitHub Highlights
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=davidchemwetich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
----
 ## 🎶 Now Playing on Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
