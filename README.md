@@ -29,7 +29,7 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=davidchemwetich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-## 🎶 Now Playing on Spotify
+🎶 Now Playing on Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
     <img src="https://novatorem-davidchemwetich.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
